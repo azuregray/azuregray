@@ -1,4 +1,4 @@
-#### ✅ I'm a Machine Learning Graduate who loves to work on code that can learn and think.<br>👯 I’m looking to collaborate on projects that are one of a kind and can make tech reachable to the deserving.<br>🤝 I’m looking for help with any and all roles in such repos/organizations.<br>🌱 I’m currently focusing in the field of CyberSecurity - Pentesting.
+#### ✅ I'm a Machine Learning Graduate who loves to work on code that can learn and think and useful in real world.<br>👯 I’m looking to collaborate on projects that are one of a kind and can make tech usable for the deserving.<br>🤝 I’m looking for help with any and all roles in such repos/organizations.<br>🌱 I’m currently focusing in the field of Java - Spring Boot stack.
 
 
 ## 🌐 My Socials
